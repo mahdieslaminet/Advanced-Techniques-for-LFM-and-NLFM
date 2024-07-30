@@ -26,16 +26,12 @@ The repository is structured as follows:
 
     articles/
         original_article1.pdf - First original article on radar signal processing.
-        original_article2.pdf - Second original article on active cancellation systems.
-        ...
-        combined_article.pdf - Synthesized article combining insights from all original articles.
+       
     presentations/
         presentation.pptx - PowerPoint presentation for the combined article.
         presentation_video.mp4 - Recorded video of the presentation.
     simulations/
         simulation_code1.m - MATLAB code for the first simulation.
-        simulation_code2.m - MATLAB code for the second simulation.
-        ...
         simulation_video.mp4 - Recorded video demonstrating the simulations.
     readme_images/ - Images used in this README file.
 
@@ -45,9 +41,7 @@ Original Articles
 The repository includes several original research articles forming the study's foundation:
 
     Original Article 1: Discusses advanced radar signal processing techniques and their applications in target detection and tracking.
-    Original Article 2: Explores the design and implementation of active cancellation systems to mitigate interference in radar systems.
-    Original Article 3: (Add a brief description for each additional article as needed).
-
+    Original Article 2: Explores the design and implementation of active cancellation systems to mitigate interference in radar systems
 Combined Article
 
 The Combined Article synthesizes the findings from the original articles, providing a comprehensive overview of the state-of-the-art in radar signal processing and active cancellation systems. It integrates various methodologies, results, and discussions to present a holistic view of the research area.
@@ -59,7 +53,6 @@ Simulation Files
 The simulations/ directory contains MATLAB codes used for the simulations presented in the articles. These files are essential for replicating the experiments and understanding the practical implications of the theoretical concepts discussed in the articles.
 
     Simulation Code 1: MATLAB code for simulating radar signal processing techniques.
-    Simulation Code 2: MATLAB code for implementing and testing active cancellation systems.
     Simulation Video: A recorded video demonstrating the simulations and their outcomes.
 
 Recorded Presentation Videos
