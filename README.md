@@ -1,5 +1,6 @@
 google drive link : https://drive.google.com/drive/folders/1Bpjo7J2KrSj3eYb23YJOiUR1tFmWuEFt?usp=drive_link
-
+Link to Google Drive, description of code and simulation: https://drive.google.com/drive/folders/1hvd0W-zAIHjZBzqMal50wcxVV8KJtWl2?usp=drive_link
+The link to the PowerPoint presentation of the article:https://drive.google.com/drive/folders/1MJiA-N8xA0S8WcQRCr2BZLaY0U5Bgzf0?usp=drive_link
 Comprehensive Study on Radar Signal Processing and Active Cancellation Systems
 All files in this repository, along with detailed explanations, videos, and more, are available on Google Drive at the following link: [Google Drive Folder](https://drive.google.com/drive/folders/1Bpjo7J2KrSj3eYb23YJOiUR1tFmWuEFt?usp=drive_link). The folder is publicly accessible.
 Table of Contents
